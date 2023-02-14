@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-speech-kit": "^3.0.1"
+  }
+}
